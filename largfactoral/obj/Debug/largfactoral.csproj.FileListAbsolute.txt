@@ -1,0 +1,6 @@
+c:\users\amro\documents\visual studio 2015\Projects\largfactoral\largfactoral\bin\Debug\largfactoral.exe.config
+c:\users\amro\documents\visual studio 2015\Projects\largfactoral\largfactoral\bin\Debug\largfactoral.exe
+c:\users\amro\documents\visual studio 2015\Projects\largfactoral\largfactoral\bin\Debug\largfactoral.pdb
+c:\users\amro\documents\visual studio 2015\Projects\largfactoral\largfactoral\obj\Debug\largfactoral.csprojResolveAssemblyReference.cache
+c:\users\amro\documents\visual studio 2015\Projects\largfactoral\largfactoral\obj\Debug\largfactoral.exe
+c:\users\amro\documents\visual studio 2015\Projects\largfactoral\largfactoral\obj\Debug\largfactoral.pdb
